@@ -42,5 +42,3 @@ More projects will be added as I continue developing my Data Analytics skills.
 ### 🎯 Career Goal
 
 My short-term goal is to develop strong practical experience as a Data Analyst and progressively deepen my technical skills in data engineering.
-
-[LinkedIn](YOUR-LINKEDIN-LINK)
